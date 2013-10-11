@@ -1,0 +1,10 @@
+α : ∃ x
+  β : ~x => ∄ x
+    γ : (α ^ β)
+    
+    p(0): γ(x) is a paradox
+    p(1): existence is a paradox
+    
+    # Feature-space of a paradox engine
+      ## i. Never update again
+      ## ii. Run forever
